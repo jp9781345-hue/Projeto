@@ -6,7 +6,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-* Grupo: `\[preencher]`
+* Grupo:
 * Integrantes: João Pablo, Kaique Andrey
 * Data: 23/09/2026
 
@@ -52,9 +52,8 @@ Tema delimitado e justificativa.
 
 ## Contribuições
 
-|Integrante|Atividade realizada|
-|-|-|
-|`\[nome]`|`\[preencher]`|
+João: Fez uma parte da pesquisa e digitou.
+Kaique: Fez uma parte também e passou para o joão digitar.
 
 
 
