@@ -14,11 +14,16 @@ Porque a tecnologia digital seria um diferencial na vida de pessoas com deficiê
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? Facilidade no uso da tecnologia digital.
-- Qual é o objeto da pergunta? Tecnologias assistivas com aplicação intuitivas.
-- Qual é o contexto ou recorte? As dificuldades enfrentadas por pessoas com deficiência no meio tecnólogico.
-- A pergunta pode ser respondida por artigos científicos? Sim, segundo artigos científicos, o uso de tecnologias inclusivas, podem ser um avanço significativo; um exemplo é na escola, as tecnologias necessárias para acudir pessoas com deficiência são muito escassas, por isso o desenvolvimento dessas tecnologias são importantes.
-- Por que essa pergunta é relevante? Pelo simples fato de que muitos deficientes passam dificuldades nesses meios de tecnologias e a maioria nao tem o acesso adequado. 
+- O que se deseja descobrir ou compreender?
+Facilidade no uso da tecnologia digital.
+- Qual é o objeto da pergunta?
+Tecnologias assistivas com aplicação intuitivas.
+- Qual é o contexto ou recorte?
+ As dificuldades enfrentadas por pessoas com deficiência no meio tecnólogico.
+- A pergunta pode ser respondida por artigos científicos?
+Sim, segundo artigos científicos, o uso de tecnologias inclusivas, podem ser um avanço significativo; um exemplo é na escola, as tecnologias necessárias para acudir pessoas com deficiência são muito escassas, por isso o desenvolvimento dessas tecnologias são importantes.
+- Por que essa pergunta é relevante?
+Pelo simples fato de que muitos deficientes passam dificuldades nesses meios de tecnologias e a maioria nao tem o acesso adequado. 
 
 ## Produto da etapa
 
