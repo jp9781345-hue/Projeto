@@ -6,18 +6,19 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+Porque a tecnologia digital seria um diferencial na vida de pessoas com deficiência?
+
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+Mostrar como novas tecnologias podem mudar a vida de quem tem pouco acesso a tecnologia de inclusão.
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. Solucionar
+2. Incluir
+3. Ajudar
+4. Implementar
 
 ## Quadro de alinhamento
 
