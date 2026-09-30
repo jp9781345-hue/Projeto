@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+O papel das tecnologias digitais na inclusão de pessoas com deficiência.
 
 ## Pergunta de pesquisa
 
