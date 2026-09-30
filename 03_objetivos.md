@@ -26,7 +26,7 @@ Mostrar como novas tecnologias podem mudar a vida de quem tem pouco acesso a tec
 |---|---|
 | Problema | A falta de inclusão e tecnologias assertivas|
 | Objetivo geral | Mostrar como novas tecnologias podem mudar a vida de quem tem pouco acesso a tecnologia de inclusão.|
-| Resultado esperado | Soluções da escola ou das instituições na falta de acessibilidade e inclusão com as pessoas com deficiência.|
+| Resultado esperado | O desenvolvimento de novas tecnologias a partir de ideias citadas nesse artigo.|
 
 ## Produto da etapa
 
