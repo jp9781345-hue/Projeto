@@ -49,5 +49,9 @@ Pergunta de pesquisa aprovada.
 ## Contribuições
 
 | Integrante | Atividade realizada |
+
+
 |João Pablo|Elaborou Respostas e pesquisou artigos científicos sobre o tema|
+
+
 | Kaique Andrey| Também elaborou Respostas e pesquisos artigos|
