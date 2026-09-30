@@ -48,12 +48,6 @@ O estudo mostra como as tecnologias podem contribuir para a inclusão, destacand
 
 O artigo apresenta uma visão ampla sobre o tema e destaca a importância das tecnologias na inclusão. Porém, por ser bibliográfico, não apresenta resultados práticos obtidos em escolas.
 
-### Citação literal opcional
-
-“As TDICs e as TAs [...] promovem maior autonomia e participação dos alunos com deficiência.”
-
-Página: 3788
-
 ## Checklist
 
 * [ ] O artigo foi lido além do resumo.
