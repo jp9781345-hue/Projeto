@@ -8,51 +8,51 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: SOUZA, Byanca Crystina Almeida. Tecnologias digitais e assistivas na educação: desafios e possibilidades para a inclusão de pessoas com deficiência. Revista Educação Contemporânea, v. 2, n. 5, p. 3736-3740, 2025.
+* DOI ou URL: https://doi.org/10.5281/zenodo.18019331
+* Base de origem: Revista Educação Contemporânea / Zenodo
+* Leitor responsável: João pablo
+* Data da leitura: 28/09/26
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+A  falta  de formação  adequada  dos  professores  e  a  desigualdade  no  acesso  aos  recursos  tecnológicos
 
 ### Objetivo do estudo
 
-`[preencher]`
+Como o uso dessas ferramentas amplia o acesso e favorece a participação dos estudantes com deficiência nas  atividades  escolares
 
 ### Método utilizado
 
-`[preencher]`
+A  metodologia  adotada baseou-se  em revisão bibliográfica, abordando a trajetória histórica da exclusão, os marcos legais de garantia de direitos e a aplicação das TDICs e TAs na educação inclusiva. 
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+Facilitar o uso de ferramentas tecnológicas para pessoas com deficiência.
 
 ### Principais resultados
 
-`[preencher]`
+As TDICs e TAs ajudam a ampliar o acesso, a participação, a autonomia e a aprendizagem dos estudantes com deficiência. Porém, seu uso depende de formação dos professores, infraestrutura e acesso aos recursos tecnológicos.
 
 ### Limitações apresentadas
 
-`[preencher]`
+O artigo é uma revisão bibliográfica e não apresenta pesquisa de campo ou dados coletados diretamente com professores e estudantes.
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+O estudo mostra como as tecnologias podem contribuir para a inclusão, destacando seus benefícios e os desafios para sua utilização nas escolas.
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+O artigo apresenta uma visão ampla sobre o tema e destaca a importância das tecnologias na inclusão. Porém, por ser bibliográfico, não apresenta resultados práticos obtidos em escolas.
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+“As TDICs e as TAs [...] promovem maior autonomia e participação dos alunos com deficiência.”
 
-Página: `[número]`
+Página: 3788
 
 ## Checklist
 
