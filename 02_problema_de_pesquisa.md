@@ -2,7 +2,7 @@
 
 ## Tema aprovado
 
-O papel das tecnologias digitais na inclusão de pessoas com deficiência.
+O uso da tecnologia na inclusão de pessoas com deficiência.
 
 ## Pergunta de pesquisa
 
