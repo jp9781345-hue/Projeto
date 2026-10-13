@@ -18,36 +18,35 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-O artigo aborda as dificuldades de incluir alunos com deficiência nas escolas e 
-como as tecnologias digitais podem ajudar nesse processo.
+O artigo fala sobre as dificuldades que pessoas com deficiência enfrentam para ter uma inclusão adequada nas escolas e como a tecnologia pode ajudar a melhorar essa situação.
 
 ### Objetivo do estudo
 
-Analisar como as tecnologias digitais podem contribuir para a inclusão escolar e melhorar o aprendizado de alunos com deficiência.
+O objetivo é entender como as tecnologias digitais podem ajudar na inclusão escolar de pessoas com deficiência e contribuir para o aprendizado desses alunos.
 
 ### Método utilizado
 
-Os autores fizeram uma revisão de artigos científicos publicados entre 2011 e 2020, pesquisando nas plataformas SciELO e Portal de Periódicos da CAPES.
+Os autores fizeram uma pesquisa em artigos científicos publicados entre 2011 e 2020. Para isso, utilizaram as plataformas SciELO e Portal de Periódicos da CAPES, selecionando os textos que tinham relação com o tema.
 
 ### Contexto, amostra ou dados
 
-Inicialmente, foram encontrados 940 resultados, mas apenas seis artigos foram selecionados para a análise final. Os estudos abordavam diferentes deficiências e o uso de tecnologias na educação.
+No começo, foram encontrados 940 resultados, mas, depois da análise, apenas seis artigos foram escolhidos. Eles falavam sobre o uso da tecnologia na educação de pessoas com diferentes tipos de deficiência.
 
 ### Principais resultados
 
-A pesquisa mostrou que as tecnologias digitais podem facilitar o aprendizado e a inclusão dos alunos. Porém, ainda existem dificuldades, como a falta de equipamentos adequados e de preparo dos professores.
+Os resultados mostram que a tecnologia pode facilitar o aprendizado e ajudar na inclusão dos alunos. Mesmo assim, ainda existem problemas, como a falta de equipamentos nas escolas e a dificuldade de alguns professores em utilizar esses recursos.
 
 ### Limitações apresentadas
 
-O estudo analisou apenas seis artigos, publicados entre 2011 e 2020. Por isso, os autores apontam a necessidade de novas pesquisas sobre o assunto.
+Uma das limitações foi a quantidade de artigos analisados, já que apenas seis foram selecionados. Além disso, a pesquisa considerou textos publicados entre 2011 e 2020, mostrando que ainda são necessários mais estudos sobre o assunto.
 
 ### Contribuição para o nosso artigo
 
-O artigo mostra que a tecnologia pode ajudar na inclusão escolar, mas também destaca que é necessário ter recursos adequados e professores preparados para utilizá-la.
+O artigo ajuda a entender como a tecnologia pode melhorar a inclusão de pessoas com deficiência na escola. Também mostra que não basta ter acesso aos recursos digitais, pois é importante que as escolas tenham equipamentos e professores preparados.
 
 ### Comentário crítico
 
-Achei o artigo importante porque mostra como a tecnologia pode ajudar alunos com deficiência a aprender melhor. Porém, acredito que não basta ter acesso à tecnologia: as escolas também precisam oferecer estrutura e apoio para que a inclusão realmente aconteça.
+Na minha opinião, o artigo é importante porque mostra que a tecnologia pode facilitar bastante o aprendizado de pessoas com deficiência. Porém, ainda falta estrutura em muitas escolas, e isso acaba dificultando o acesso a esses recursos. Por isso, é importante investir tanto nas tecnologias quanto na preparação dos professores.
 
 ## Checklist
 
