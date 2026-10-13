@@ -1,11 +1,5 @@
 # Etapa 4 Leitura e fichamento
 
-## Solicitação
-
-Preencha **uma cópia** deste template **para cada artigo** selecionado.
-
-Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
-
 ## Identificação do artigo
 
 * Referência completa: EDUARDO, Alessandra Fernandes; MOURA, Maria de Fátima; EDUARDO, Renata Fernandes. Tecnologias digitais e recursos da tecnologia assistiva como ferramentas de inclusão na educação brasileira. Rebena - Revista Brasileira de Ensino e Aprendizagem, [S. l.], v. 15, p. 1108–1119, 2026. DOI: 10.5281/zenodo.21997129. Disponível em: https://rebena.emnuvens.com.br/revista/article/view/825. Acesso em: 13 out. 2026.
