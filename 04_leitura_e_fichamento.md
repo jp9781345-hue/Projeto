@@ -1,6 +1,6 @@
 # Etapa 4 Leitura e fichamento
 
-## Solicitação
+## Solicitação 
 
 Preencha **uma cópia** deste template **para cada artigo** selecionado.
 
