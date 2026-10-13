@@ -46,7 +46,7 @@ O artigo ajuda a entender como a tecnologia pode melhorar a inclusão de pessoas
 
 ### Comentário crítico
 
-Na minha opinião, o artigo é importante porque mostra que a tecnologia pode facilitar bastante o aprendizado de pessoas com deficiência. Porém, ainda falta estrutura em muitas escolas, e isso acaba dificultando o acesso a esses recursos. Por isso, é importante investir tanto nas tecnologias quanto na preparação dos professores.
+Na minha opinião, o artigo é importante porque mostra que a tecnologia pode facilitar bastante o aprendizado de pessoas com deficiência, mas, ainda falta estrutura em muitas escolas, e isso acaba dificultando o acesso a esses recursos. Por isso, é importante investir tanto nas tecnologias quanto na preparação dos professores.
 
 ## Checklist
 
