@@ -12,15 +12,15 @@ Como as tecnologias digitais e assistivas podem contribuir para a inclusão educ
 
 - O que se deseja descobrir ou compreender?
 
-Facilidade no uso da tecnologia digital.
+Entender como a tecnologia pode facilitar o aprendizado e a participação dos alunos com deficiência.
 
 - Qual é o objeto da pergunta?
 
-Tecnologias assistivas com aplicação intuitivas.
+O uso de tecnologias digitais e assistivas na educação.
 
 - Qual é o contexto ou recorte?
 
-As dificuldades enfrentadas por pessoas com deficiência no meio tecnólogico.
+As dificuldades que alunos com deficiência enfrentam para ter acesso à tecnologia nas escolas.
 
 - A pergunta pode ser respondida por artigos científicos?
 
