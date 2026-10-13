@@ -22,7 +22,7 @@ Acessibilidade Digital
 
 ### Do tema amplo ao específico
 
-* Tema amplo: O papel das tecnologias digitais na inclusão de pessoas com deficiência.
+* Tema amplo: O uso da tecnologia na inclusão de pessoas com deficiência.
 * Objeto estudado: Interfaces e plataformas digitais utilizadas por pessoas com deficiência
 * Contexto ou aplicação: Sites, aplicativos e serviços digitais
 * Aspecto que será analisado: Como princípios de acessibilidade e design universal podem reduzir barreiras no uso dessas tecnologias.
