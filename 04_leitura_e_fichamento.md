@@ -18,35 +18,35 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-A  falta  de formação  adequada  dos  professores  e  a  desigualdade  no  acesso  aos  recursos  tecnológicos
+A dificuldade que alguns professores têm para usar a tecnologia e a falta desses recursos em algumas escolas.
 
 ### Objetivo do estudo
 
-Como o uso dessas ferramentas amplia o acesso e favorece a participação dos estudantes com deficiência nas  atividades  escolares
+Entender como a tecnologia pode ajudar os alunos com deficiência nas aulas e facilitar o aprendizado.
 
 ### Método utilizado
 
-A  metodologia  adotada baseou-se  em revisão bibliográfica, abordando a trajetória histórica da exclusão, os marcos legais de garantia de direitos e a aplicação das TDICs e TAs na educação inclusiva. 
+Os autores pesquisaram outros artigos e trabalhos que falam sobre a inclusão de pessoas com deficiência e o uso da tecnologia nas escolas.
 
 ### Contexto, amostra ou dados
 
-Facilitar o uso de ferramentas tecnológicas para pessoas com deficiência.
+O estudo fala sobre o uso da tecnologia para ajudar pessoas com deficiência nas atividades escolares.
 
 ### Principais resultados
 
-As TDICs e TAs ajudam a ampliar o acesso, a participação, a autonomia e a aprendizagem dos estudantes com deficiência. Porém, seu uso depende de formação dos professores, infraestrutura e acesso aos recursos tecnológicos.
+A tecnologia pode ajudar os alunos a acompanhar as aulas e fazer as atividades com mais autonomia. Só que nem todas as escolas têm os recursos necessários, e alguns professores precisam de mais preparo para usar essas ferramentas.
 
 ### Limitações apresentadas
 
-O artigo é uma revisão bibliográfica e não apresenta pesquisa de campo ou dados coletados diretamente com professores e estudantes.
+O estudo foi baseado em outros artigos, então não teve entrevistas com alunos ou professores para saber como isso funciona na prática.
 
 ### Contribuição para o nosso artigo
 
-O estudo mostra como as tecnologias podem contribuir para a inclusão, destacando seus benefícios e os desafios para sua utilização nas escolas.
+Esse artigo ajuda a entender melhor como a tecnologia pode ajudar na inclusão escolar e o que ainda dificulta seu uso.
 
 ### Comentário crítico
 
-O artigo apresenta uma visão ampla sobre o tema e destaca a importância das tecnologias na inclusão. Porém, por ser bibliográfico, não apresenta resultados práticos obtidos em escolas.
+O artigo explica a importância da tecnologia para os alunos com deficiência, mas poderia mostrar exemplos de como ela é usada nas escolas e se realmente ajuda no dia a dia.
 
 ## Checklist
 
