@@ -1,11 +1,5 @@
 # Etapa 4 Leitura e fichamento
 
-## Solicitação
-
-Preencha **uma cópia** deste template **para cada artigo** selecionado.
-
-Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
-
 ## Identificação do artigo
 
 * Referência completa: SILVA, Maria Aurinolia Barreto; DAVID, Priscila Barros; VASCONCELOS, Francisco Herbert Lima. Acessibilidade, tecnologias digitais e inclusão escolar de pessoas com deficiência: uma revisão sistemática de literatura. Conexões – Ciência e Tecnologia, Fortaleza, v. 16, e022021, 2022.
