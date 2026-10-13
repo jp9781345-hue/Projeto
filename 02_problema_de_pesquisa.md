@@ -1,16 +1,12 @@
 # Etapa 2 Problema de pesquisa
 
-## Solicitação
-
-Transforme o tema em uma pergunta clara, específica e respondível por meio da literatura científica.
-
 ## Tema aprovado
 
 O papel das tecnologias digitais na inclusão de pessoas com deficiência.
 
 ## Pergunta de pesquisa
 
-Porque a tecnologia digital seria um diferencial na vida de pessoas com deficiência?
+Como as tecnologias digitais e assistivas podem contribuir para a inclusão educacional de pessoas com deficiência e quais dificuldades limitam seu uso?
 
 ## Verificação
 
