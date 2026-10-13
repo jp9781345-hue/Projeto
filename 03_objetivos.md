@@ -1,9 +1,5 @@
 # Etapa 3 Objetivo geral e objetivos específicos
 
-## Solicitação
-
-Defina o objetivo geral e os objetivos específicos do artigo.
-
 ## Problema de pesquisa
 
 Porque a tecnologia digital seria um diferencial na vida de pessoas com deficiência?
