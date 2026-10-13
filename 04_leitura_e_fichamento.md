@@ -1,11 +1,5 @@
 # Etapa 4 Leitura e fichamento
 
-## Solicitação 
-
-Preencha **uma cópia** deste template **para cada artigo** selecionado.
-
-Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
-
 ## Identificação do artigo
 
 * Referência completa: SOUZA, Byanca Crystina Almeida. Tecnologias digitais e assistivas na educação: desafios e possibilidades para a inclusão de pessoas com deficiência. Revista Educação Contemporânea, v. 2, n. 5, p. 3736-3740, 2025.
