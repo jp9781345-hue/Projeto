@@ -8,50 +8,41 @@ O uso da tecnologia na inclusão de pessoas com deficiência na educação
 Tecnologia assistiva; inclusão educacional; acessibilidade digital.
 
 ## Introdução
+A presença da tecnologia nas salas de aula transformou a forma como ensinamos e aprendemos, trazendo possibilidades reais de participação para estudantes com deficiência. Ferramentas como softwares leitores de tela, aplicativos de acessibilidade, legendagens automáticas e leitores digitais abrem caminhos concretos para democratizar o acesso ao conhecimento. Na prática cotidiana, porém, essa promessa esbarra em barreiras persistentes: faltam computadores e tablets nas escolas, a conexão de internet costuma ser instável e muitos educadores não recebem o treinamento necessário para integrar esses recursos à rotina pedagógica.
 
-A tecnologia está cada vez mais presente na educação e pode ajudar alunos com deficiência a participar das atividades escolares. Existem recursos como leitores de tela, aplicativos de acessibilidade, legendas e outras ferramentas que facilitam o acesso às informações. Porém, nem todos os alunos conseguem utilizar esses recursos, seja pela falta de equipamentos, pela dificuldade de acesso ou pela falta de preparo dos profissionais das escolas.
+É desse cenário que parte a dúvida central deste trabalho: de que modo a tecnologia assistiva pode favorecer o aprendizado de alunos com deficiência na escola, e quais são os principais gargalos que impedem esse uso na vida real? A reflexão se justifica porque garantir a inclusão vai muito além de matricular o estudante; exige assegurar condições efetivas para que ele compreenda os conteúdos, interaja com a turma e desenvolva sua autonomia.
 
-Diante disso, surge a seguinte questão: como a tecnologia pode ajudar pessoas com deficiência na escola e quais dificuldades elas enfrentam para usar esses recursos? Esse assunto é importante porque a inclusão não depende apenas de matricular o aluno, mas também de oferecer condições para que ele aprenda e participe das atividades.
-
-Assim, este artigo tem como objetivo entender como as tecnologias digitais e assistivas podem ajudar na inclusão educacional e identificar algumas das principais dificuldades para sua utilização.
+O objetivo deste estudo é analisar o papel dos recursos digitais e assistivos na inclusão escolar e mapear os obstáculos práticos que ainda travam sua plena aplicação.
 
 ## Metodologia
+Para construir esta análise, optou-se por uma revisão bibliográfica fundamentada em três artigos científicos selecionados previamente. As obras escolhidas investigam a relação entre recursos digitais, tecnologia assistiva e os dilemas da educação inclusiva no Brasil.
 
-O trabalho foi desenvolvido por meio de uma revisão bibliográfica, com base em três artigos científicos selecionados nas etapas anteriores da pesquisa. Os textos abordam o uso de tecnologias digitais e assistivas na educação e as dificuldades relacionadas à inclusão de pessoas com deficiência.
+A leitura do material priorizou os objetivos fixados por cada autor, as escolhas metodológicas, os resultados obtidos e as limitações explicitadas ao longo dos textos. Ao cruzar esses achados, buscou-se identificar convergências quanto aos ganhos trazidos pela tecnologia, sem perder de vista os problemas estruturais que se repetem nas redes de ensino. Cabe ressaltar que a pesquisa baseou-se exclusivamente em literatura publicada, sem a realização de coletas de campo, entrevistas ou questionários com professores e alunos.
 
-A análise considerou os objetivos, os métodos, os resultados e as limitações apresentados pelos autores. Também foram comparadas as ideias em comum entre os estudos, buscando compreender os benefícios da tecnologia e os problemas que ainda dificultam seu uso nas escolas. Como a pesquisa utiliza estudos já publicados, não foram realizadas entrevistas nem pesquisas diretamente com alunos ou professores.
+## Desenvolvimento
+Eixo 1 — O papel da tecnologia na promoção da autonomia
+Os trabalhos analisados concordam que os recursos tecnológicos têm potencial para mudar a dinâmica de aprendizado de alunos com deficiência. Souza (2025) destaca como a introdução de mídias digitais e ferramentas assistivas pode tornar as aulas mais acessíveis, adaptando conteúdos que antes eram transmitidos de forma padronizada e rígida.
 
-## Revisão da literatura
+Em linha semelhante, a revisão sistemática conduzida por Silva, David e Vasconcelos (2022) — que mapeou produções veiculadas entre 2011 e 2020 — reforça a ponte direta entre acessibilidade digital e permanência escolar com qualidade. Na mesma direção, Eduardo, Moura e Eduardo (2026) discutem as mídias digitais como suportes estratégicos para enfrentar os gargalos históricos da inclusão na educação brasileira.
 
-### Eixo 1 — Benefícios da tecnologia para a inclusão
+Apesar das diferenças metodológicas de cada estudo, sobressai o entendimento de que a tecnologia facilita a apreensão de conhecimentos e estimula a autonomia do estudante. No entanto, os autores deixam claro: a ferramenta por si só não faz milagres. Ela precisa atender às especificidades de cada indivíduo e vir acompanhada de um planejamento pedagógico intencional.
 
-Os três artigos mostram que a tecnologia pode facilitar a participação de pessoas com deficiência na educação. Souza (2025) aborda como os recursos digitais e assistivos podem ajudar no aprendizado, destacando sua importância para tornar o ensino mais acessível.
+Eixo 2 — As barreiras que travam a inclusão prática
+O segundo ponto de convergência entre as produções diz respeito às dificuldades operacionais de colocar a teoria em prática. A literatura aponta recorrentemente a escassez de equipamentos nas unidades escolares, o déficit na formação inicial e continuada dos professores e as deficiências de infraestrutura física.
 
-Silva, David e Vasconcelos (2022) também discutem a relação entre acessibilidade digital e inclusão escolar, por meio de uma revisão sistemática de estudos publicados entre 2011 e 2020. Já Eduardo, Moura e Eduardo (2026) apresentam as tecnologias digitais e assistivas como ferramentas que podem contribuir para a inclusão na educação brasileira.
+Um alerta central dos estudos é que a simples aquisição ou entrega de um dispositivo não assegura inclusão. De nada adianta a escola ter o software se ele não estiver configurado corretamente para o aluno ou se o professor não souber como inseri-lo na atividade do dia.
 
-Apesar das diferenças entre os trabalhos, os estudos apontam que esses recursos podem facilitar o acesso aos conteúdos e aumentar a autonomia dos alunos. Entretanto, a tecnologia sozinha não resolve todos os problemas, pois precisa atender às necessidades dos estudantes e ser utilizada de maneira adequada.
+Vale mencionar uma limitação desse conjunto de trabalhos: a maioria adota uma abordagem estritamente bibliográfica (com exceção do levantamento de Silva, David e Vasconcelos). Isso significa que, embora ajudem a desenhar um diagnóstico geral do problema, seus achados não podem ser generalizados de forma automática para todas as realidades escolares do país.
 
-### Eixo 2 — Dificuldades para utilizar esses recursos
+## Síntese crítica
 
-Outro ponto em comum entre os artigos é a existência de dificuldades para colocar a inclusão em prática. Entre os problemas discutidos estão a falta de equipamentos, a preparação insuficiente dos professores e a necessidade de melhorar a estrutura das escolas.
+O contraste entre os textos mostra que, embora a tecnologia seja uma grande aliada teórica da acessibilidade, a prática escolar ainda convive com entraves elementares. Todos os autores caminham juntos ao defender a importância do suporte assistivo, mas fica evidente a necessidade de investigações que saiam da teoria e observem de perto como essas ferramentas funcionam (ou falham) no dia a dia de alunos e professores dentro da sala de aula.
 
-Os estudos também mostram que disponibilizar uma ferramenta não garante que todos consigam utilizá-la. É necessário que os recursos sejam acessíveis e que os profissionais saibam como aplicá-los nas atividades escolares.
+## Considerações gerais
 
-Os trabalhos analisados são baseados em pesquisas bibliográficas, embora o estudo de Silva, David e Vasconcelos utilize uma revisão sistemática. Por isso, ajudam a compreender o tema, mas não permitem afirmar, por si só, que os mesmos problemas acontecem da mesma forma em todas as escolas.
+O percurso analítico realizado permite concluir que as tecnologias digitais e assistivas desempenham papel relevante na promoção de um ensino mais inclusivo, ampliando o acesso e a participação de estudantes com deficiência. O alcance desses benefícios, contudo, continua limitado pela escassez de recursos materiais, pela falta de capacitação docente e por barreiras de acesso cotidianas.
 
-### Síntese crítica
-
-A comparação dos artigos mostra que a tecnologia pode contribuir para uma educação mais inclusiva, mas ainda existem obstáculos para seu uso. Os estudos se aproximam ao destacar a importância da acessibilidade e dos recursos assistivos. Uma questão que merece mais atenção é entender como essas ferramentas funcionam na prática, considerando as experiências de alunos e professores em diferentes escolas.
-
-## Considerações finais
-
-A partir dos artigos analisados, foi possível compreender que as tecnologias digitais e assistivas podem facilitar o aprendizado e a participação de alunos com deficiência. Porém, a falta de equipamentos, a necessidade de formação dos professores e as dificuldades de acesso ainda podem limitar esses benefícios.
-
-Portanto, melhorar a inclusão exige não apenas disponibilizar tecnologias, mas também preparar os profissionais e garantir que os recursos atendam às necessidades dos estudantes. Como possibilidade para pesquisas futuras, seria interessante ouvir alunos e professores e investigar como essas ferramentas são utilizadas no dia a dia escolar.
-
-## Resumo
-
-Este artigo aborda o uso da tecnologia na inclusão educacional de pessoas com deficiência. O objetivo foi compreender como os recursos digitais e assistivos podem ajudar os alunos e quais dificuldades atrapalham sua utilização. Para isso, foi realizada uma revisão bibliográfica com três artigos científicos. A análise mostrou que essas tecnologias podem facilitar o aprendizado, o acesso aos conteúdos e a participação nas atividades escolares. Entretanto, a falta de equipamentos e de preparo dos professores ainda representa desafios. Conclui-se que a tecnologia pode contribuir para a inclusão, desde que seja acompanhada de condições adequadas para seu uso.
+Fica claro que promover a inclusão de fato exige mais do que comprar equipamentos ou adotar programas digitais; depende de investir nas pessoas, formar os educadores e adaptar os recursos à realidade de cada estudante. Como recomendação para trabalhos futuros, sugere-se a realização de pesquisas empíricas de campo que escutem diretamente os atores do processo — professores, alunos e gestores — para compreender a dinâmica real do uso dessas tecnologias no chão da escola.
 
 ## Referências
 
